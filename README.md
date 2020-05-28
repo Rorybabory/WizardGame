@@ -1,1 +1,1 @@
-# WizardryTheHappening
+# WizardGame
