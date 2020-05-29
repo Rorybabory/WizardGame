@@ -1,0 +1,25 @@
+﻿  animatedMesh.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\SkeletalAnimation\SkeletalModel.h(15,56): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(216,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(236,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(248,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(176): warning C4715: 'animatedMesh::Update': not all control paths return a value
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+qu3e.lib(q3Vec3.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3Mat3.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3Body.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3Scene.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3Quaternion.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3Memory.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3BroadPhase.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3ContactManager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3Box.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3DynamicAABBTree.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3Island.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3Contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3ContactSolver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+qu3e.lib(q3Collide.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in animatedMesh.obj
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\lambe\source\repos\WizardGame\x64\Debug\WizardGame.exe : fatal error LNK1319: 14 mismatches detected

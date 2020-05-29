@@ -1,0 +1,1 @@
+sudo apt-get install libsdl2-dev libsdl2-2.0 freeglut3-dev binutils-gold g++ mesa-common-dev build-essential libglew1.5-dev libglm-dev mesa-utils assimp-utils

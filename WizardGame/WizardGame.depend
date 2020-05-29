@@ -1,0 +1,670 @@
+# depslib dependency file v1.0
+1589253804 source:/home/rory/NewWizardGame/WizardGame/main.cpp
+	<iostream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	"SkeletalAnimation/Types.h"
+	"SkeletalAnimation/SkeletalModelSerializer.h"
+	"SkeletalAnimation/SkeletalModel.h"
+	"AssimpConverter.h"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"display.h"
+	"mesh.h"
+	"shader.h"
+	"texture.h"
+	"transform.h"
+	"camera.h"
+	"object.h"
+	"world.h"
+	"LuaScript.h"
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	"NPC.h"
+	"entity.h"
+	"luaLibrary.h"
+	"GraphicsComponent.h"
+	"NpcComponent.h"
+	"Component.h"
+	"postProcessing.h"
+	<qu3e/q3.h>
+	"FrameBuffer.h"
+
+1586133987 /home/rory/NewWizardGame/WizardGame/SkeletalAnimation/Types.h
+	<glm/glm.hpp>
+	<glm/ext.hpp>
+	<glm/gtx/quaternion.hpp>
+	<vector>
+	<string>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/SkeletalAnimation/SkeletalModelSerializer.h
+	<string>
+
+1587350597 /home/rory/NewWizardGame/WizardGame/SkeletalAnimation/SkeletalModel.h
+	"Types.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/AssimpConverter.h
+
+1588542422 /home/rory/NewWizardGame/WizardGame/display.h
+	<string>
+	<SDL2/SDL.h>
+
+1587329902 /home/rory/NewWizardGame/WizardGame/mesh.h
+	<glm/glm.hpp>
+	<GL/glew.h>
+	"obj_loader.h"
+	"SkeletalAnimation/Types.h"
+	"SkeletalAnimation/SkeletalModelSerializer.h"
+	"SkeletalAnimation/SkeletalModel.h"
+	"AssimpConverter.h"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1587329827 /home/rory/NewWizardGame/WizardGame/obj_loader.h
+	<glm/glm.hpp>
+	<vector>
+	<string>
+
+1587155438 /home/rory/NewWizardGame/WizardGame/shader.h
+	<glm/glm.hpp>
+	<string>
+	"GL/glew.h"
+	"transform.h"
+	"camera.h"
+	"mesh.h"
+
+1586665680 /home/rory/NewWizardGame/WizardGame/transform.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<math.h>
+
+1587174262 /home/rory/NewWizardGame/WizardGame/camera.h
+	<glm/glm.hpp>
+	<iostream>
+	<glm/gtx/transform.hpp>
+	"mesh.h"
+
+1588542996 /home/rory/NewWizardGame/WizardGame/texture.h
+	<glm/glm.hpp>
+	<string>
+	<GL/glew.h>
+	<ft2build.h>
+	<freetype/freetype.h>
+	<map>
+	"mesh.h"
+	"shader.h"
+
+1588805920 /home/rory/NewWizardGame/WizardGame/object.h
+	<iostream>
+	<string>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	"display.h"
+	"mesh.h"
+	"shader.h"
+	"texture.h"
+	"obj_loader.h"
+	"transform.h"
+	"CollisionSystem.h"
+
+1588717280 /home/rory/NewWizardGame/WizardGame/CollisionSystem.h
+	<qu3e/q3.h>
+	"messaging.h"
+	"camera.h"
+	"object.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/messaging.h
+	<vector>
+	<string>
+	<algorithm>
+
+1587330750 /home/rory/NewWizardGame/WizardGame/world.h
+	<iostream>
+	<string>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<SDL2/SDL.h>
+	"camera.h"
+	"object.h"
+	"animatedMesh.h"
+	"animatedObject.h"
+	"NPC.h"
+	"entity.h"
+	"luaLibrary.h"
+	"entitySystem.h"
+	"projectile.h"
+	"prop.h"
+	"CollisionSystem.h"
+	<qu3e/q3.h>
+	"map.h"
+	"text.h"
+	"menuSystem.h"
+
+1589233618 /home/rory/NewWizardGame/WizardGame/animatedMesh.h
+	<string>
+	<iostream>
+	"SkeletalAnimation/Types.h"
+	"SkeletalAnimation/SkeletalModelSerializer.h"
+	"SkeletalAnimation/SkeletalModel.h"
+	"AssimpConverter.h"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<SDL2/SDL.h>
+	<glm/glm.hpp>
+	<GL/glew.h>
+	<vector>
+	"mesh.h"
+	"transform.h"
+
+1589260888 /home/rory/NewWizardGame/WizardGame/animatedObject.h
+	<iostream>
+	<string>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<experimental/filesystem>
+	"display.h"
+	"mesh.h"
+	"shader.h"
+	"texture.h"
+	"obj_loader.h"
+	"transform.h"
+	"animatedMesh.h"
+
+1587330714 /home/rory/NewWizardGame/WizardGame/NPC.h
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	<cstdlib>
+	<math.h>
+	<iostream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<string>
+	"LuaScript.h"
+	"object.h"
+	"camera.h"
+	"display.h"
+	"mesh.h"
+	"shader.h"
+	"texture.h"
+	"obj_loader.h"
+	"transform.h"
+	"animatedObject.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/LuaScript.h
+	<string>
+	<vector>
+	<iostream>
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	"entity.h"
+
+1589234221 /home/rory/NewWizardGame/WizardGame/entity.h
+	<iostream>
+	<map>
+	<typeindex>
+	<string>
+	<glm/glm.hpp>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	"animatedObject.h"
+	"LuaScript.h"
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	<LuaBridge/LuaBridge.h>
+	<memory>
+	"luaLibrary.h"
+	"GraphicsComponent.h"
+	"StaticGraphicsComponent.h"
+	"NpcComponent.h"
+	"CameraComponent.h"
+	"Component.h"
+	<qu3e/q3.h>
+	"CollisionSystem.h"
+	"ProjComponent.h"
+	<map>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/luaLibrary.h
+	<string>
+	<vector>
+	<iostream>
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	"entity.h"
+
+1589233677 /home/rory/NewWizardGame/WizardGame/GraphicsComponent.h
+	<map>
+	<typeindex>
+	<string>
+	<glm/glm.hpp>
+	"animatedObject.h"
+	"LuaScript.h"
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	<LuaBridge/LuaBridge.h>
+	"luaLibrary.h"
+	"Component.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/Component.h
+
+1588805882 /home/rory/NewWizardGame/WizardGame/StaticGraphicsComponent.h
+	<map>
+	<typeindex>
+	<string>
+	<glm/glm.hpp>
+	"animatedObject.h"
+	"object.h"
+	"LuaScript.h"
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	<LuaBridge/LuaBridge.h>
+	"luaLibrary.h"
+	"Component.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/NpcComponent.h
+	<map>
+	<typeindex>
+	<string>
+	<glm/glm.hpp>
+	"animatedObject.h"
+	"LuaScript.h"
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	<LuaBridge/LuaBridge.h>
+	"luaLibrary.h"
+	"Component.h"
+
+1587159161 /home/rory/NewWizardGame/WizardGame/CameraComponent.h
+	<map>
+	<typeindex>
+	<string>
+	<glm/glm.hpp>
+	"animatedObject.h"
+	"LuaScript.h"
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	<LuaBridge/LuaBridge.h>
+	"luaLibrary.h"
+	"Component.h"
+	"camera.h"
+
+1588724566 /home/rory/NewWizardGame/WizardGame/ProjComponent.h
+	<map>
+	<typeindex>
+	<string>
+	<glm/glm.hpp>
+	"animatedObject.h"
+	"LuaScript.h"
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	<LuaBridge/LuaBridge.h>
+	"luaLibrary.h"
+	"Component.h"
+	"particleSystem.h"
+
+1589054332 /home/rory/NewWizardGame/WizardGame/entitySystem.h
+	"entity.h"
+	"luaLibrary.h"
+	"camera.h"
+	"messaging.h"
+	"CollisionSystem.h"
+	<vector>
+	<string>
+	<math.h>
+	<qu3e/q3.h>
+	<stdio.h>
+	<cmath>
+	"prop.h"
+	"ProjComponent.h"
+
+1589254474 /home/rory/NewWizardGame/WizardGame/prop.h
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<bits/stdc++.h>
+	"object.h"
+	"CollisionSystem.h"
+
+1588208162 /home/rory/NewWizardGame/WizardGame/projectile.h
+	"luaLibrary.h"
+	"messaging.h"
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	<LuaBridge/LuaBridge.h>
+	<string>
+	<glm/glm.hpp>
+	<vector>
+	<math.h>
+
+1588915481 /home/rory/NewWizardGame/WizardGame/map.h
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	<LuaBridge/LuaBridge.h>
+	<vector>
+	"entitySystem.h"
+
+1586907581 /home/rory/NewWizardGame/WizardGame/text.h
+	"object.h"
+	"mesh.h"
+	"shader.h"
+	"transform.h"
+	<string>
+	<glfreetype/TextRenderer.hpp>
+
+1588208196 /home/rory/NewWizardGame/WizardGame/menuSystem.h
+	<vector>
+	<string>
+	"object.h"
+	"text.h"
+
+1587155580 /home/rory/NewWizardGame/WizardGame/postProcessing.h
+	"GL/glew.h"
+
+1589175168 source:/home/rory/NewWizardGame/WizardGame/animatedMesh.cpp
+	"animatedMesh.h"
+	<thread>
+
+1586134151 source:/home/rory/NewWizardGame/WizardGame/AssimpConverter.cpp
+	"AssimpConverter.h"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"SkeletalAnimation/SkeletalModel.h"
+	<iostream>
+	<string>
+
+1588544328 source:/home/rory/NewWizardGame/WizardGame/display.cpp
+	"display.h"
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	<iostream>
+
+1588805193 source:/home/rory/NewWizardGame/WizardGame/EntityAPI.cpp
+	"entity.h"
+
+1588728400 source:/home/rory/NewWizardGame/WizardGame/Globals.cpp
+	<iostream>
+	<map>
+	<vector>
+	"animatedMesh.h"
+	"camera.h"
+	"text.h"
+	<glm/glm.hpp>
+
+1577150705 source:/home/rory/NewWizardGame/WizardGame/harfbuzz/hb-blob.cc
+	"hb-private.hh"
+	"hb-blob.h"
+	"hb-object-private.hh"
+	<unistd.h>
+	<sys/mman.h>
+	<stdio.h>
+	<errno.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-private.hh
+	"config.h"
+	"hb-common.h"
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<errno.h>
+	<stdarg.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-common.h
+	<inttypes.h>
+	<sys/inttypes.h>
+	<stdint.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-blob.h
+	"hb-common.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-object-private.hh
+	"hb-private.hh"
+	"hb-mutex-private.hh"
+	<glib.h>
+	<intrin.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-mutex-private.hh
+	"hb-private.hh"
+	<glib.h>
+	<windows.h>
+
+1577150705 source:/home/rory/NewWizardGame/WizardGame/harfbuzz/hb-buffer.cc
+	"hb-buffer-private.hh"
+	<string.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-buffer-private.hh
+	"hb-private.hh"
+	"hb-buffer.h"
+	"hb-object-private.hh"
+	"hb-unicode-private.hh"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-buffer.h
+	"hb-common.h"
+	"hb-unicode.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-unicode.h
+	"hb-common.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-unicode-private.hh
+	"hb-private.hh"
+	"hb-unicode.h"
+	"hb-object-private.hh"
+
+1577150705 source:/home/rory/NewWizardGame/WizardGame/harfbuzz/hb-common.cc
+	"hb-private.hh"
+	"hb-version.h"
+	"hb-mutex-private.hh"
+	"hb-object-private.hh"
+	<locale.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-version.h
+	"hb-common.h"
+
+1577150705 source:/home/rory/NewWizardGame/WizardGame/harfbuzz/hb-fallback-shape.cc
+	"hb-fallback-shape-private.hh"
+	"hb-buffer-private.hh"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-fallback-shape-private.hh
+	"hb-private.hh"
+	"hb-shape.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-shape.h
+	"hb-common.h"
+	"hb-buffer.h"
+	"hb-font.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-font.h
+	"hb-common.h"
+	"hb-blob.h"
+
+1577150705 source:/home/rory/NewWizardGame/WizardGame/harfbuzz/hb-font.cc
+	"hb-private.hh"
+	"hb-ot-layout-private.hh"
+	"hb-font-private.hh"
+	"hb-blob.h"
+	"hb-open-file-private.hh"
+	"hb-ot-head-table.hh"
+	<string.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-ot-layout-private.hh
+	"hb-private.hh"
+	"hb-ot-layout.h"
+	"hb-font-private.hh"
+	"hb-buffer-private.hh"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-ot-layout.h
+	"hb-common.h"
+	"hb-buffer.h"
+	"hb-font.h"
+	"hb-ot-tag.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-ot-tag.h
+	"hb-common.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-font-private.hh
+	"hb-private.hh"
+	"hb-font.h"
+	"hb-object-private.hh"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-open-file-private.hh
+	"hb-open-type-private.hh"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-open-type-private.hh
+	"hb-private.hh"
+	"hb-blob.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-ot-head-table.hh
+	"hb-open-type-private.hh"
+
+1577150705 source:/home/rory/NewWizardGame/WizardGame/harfbuzz/hb-ft.cc
+	"hb-private.hh"
+	"hb-ft.h"
+	"hb-font-private.hh"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb-ft.h
+	"hb.h"
+	"hb-font.h"
+	<ft2build.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/harfbuzz/hb.h
+	"hb-blob.h"
+	"hb-buffer.h"
+	"hb-common.h"
+	"hb-font.h"
+	"hb-shape.h"
+	"hb-unicode.h"
+	"hb-version.h"
+
+1577150705 source:/home/rory/NewWizardGame/WizardGame/luaLibrary.cpp
+	<string>
+	<vector>
+	<iostream>
+	<lua5.2/lua.h>
+	<lua5.2/lauxlib.h>
+	<lua5.2/lualib.h>
+	"entity.h"
+	"luaLibrary.h"
+
+1587329891 source:/home/rory/NewWizardGame/WizardGame/mesh.cpp
+	"mesh.h"
+	"util.h"
+	"debugTimer.h"
+	<map>
+	<algorithm>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/util.h
+	<vector>
+	<sstream>
+	"debugTimer.h"
+
+1577150705 /home/rory/NewWizardGame/WizardGame/debugTimer.h
+	<SDL2/SDL.h>
+	<iostream>
+
+1587331613 source:/home/rory/NewWizardGame/WizardGame/obj_loader.cpp
+	"obj_loader.h"
+	<fstream>
+	<iostream>
+	<algorithm>
+	<map>
+
+1587338418 source:/home/rory/NewWizardGame/WizardGame/object.cpp
+	"object.h"
+	"obj_loader.h"
+	<fstream>
+	<string>
+
+1588728523 source:/home/rory/NewWizardGame/WizardGame/shader.cpp
+	"shader.h"
+	<iostream>
+	<fstream>
+	<string>
+	"GL/glew.h"
+	"mesh.h"
+
+1586149361 source:/home/rory/NewWizardGame/WizardGame/SkeletalAnimation/SkeletalModel.cpp
+	"SkeletalModel.h"
+
+1577150705 source:/home/rory/NewWizardGame/WizardGame/SkeletalAnimation/SkeletalModelSerializer.cpp
+	"SkeletalModelSerializer.h"
+	"SkeletalModel.h"
+
+1577150705 source:/home/rory/NewWizardGame/WizardGame/stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1577150705 /home/rory/NewWizardGame/WizardGame/stb_image.h
+	<stdio.h>
+
+1588209480 source:/home/rory/NewWizardGame/WizardGame/TextRenderer.cpp
+	<GL/glew.h>
+	<GL/glu.h>
+	<glfreetype/TextRenderer.hpp>
+	<ft2build.h>
+	<freetype/freetype.h>
+	<freetype/ftglyph.h>
+	<freetype/ftoutln.h>
+	<freetype/fttrigon.h>
+	<GL/glew.h>
+	<GL/glu.h>
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+
+1588543677 source:/home/rory/NewWizardGame/WizardGame/texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<cassert>
+	<iostream>
+	<SDL2/SDL.h>
+	<ft2build.h>
+	<freetype/freetype.h>
+
+1585869828 source:/home/rory/NewWizardGame/WizardGame/world.cpp
+	"world.h"
+
+1588372643 /home/rory/NewWizardGame/WizardGame/particleSystem.h
+	<time.h>
+	<glm/glm.hpp>
+	<stdlib.h>
+
+1588552362 /home/rory/NewWizardGame/WizardGame/FrameBuffer.h
+	<GL/glew.h>
+	<glm/glm.hpp>
+	"mesh.h"
+	"shader.h"
+
+1588552275 source:/home/rory/NewWizardGame/WizardGame/FrameBuffer.cpp
+	"FrameBuffer.h"
+

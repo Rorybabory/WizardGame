@@ -1,0 +1,8 @@
+world = {
+  {
+    name="test",
+    pos = {
+      
+    }
+  }
+}

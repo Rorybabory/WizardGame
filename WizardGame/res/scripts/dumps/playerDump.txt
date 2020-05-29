@@ -1,0 +1,35 @@
+{
+	q3BodyDef bd;
+	bd.bodyType = q3BodyType( 1 );
+	bd.position.Set( r32( 0.000000000000000 ), r32( 0.000000000000000 ), r32( 0.000000000000000 ) );
+	bd.axis.Set( r32( 0.000000000000000 ), r32( 0.000000000000000 ), r32( 0.000000000000000 ) );
+	bd.angle = r32( 0.000000000000000 );
+	bd.linearVelocity.Set( r32( 0.000000000000000 ), r32( 0.000000000000000 ), r32( 0.000000000000000 ) );
+	bd.angularVelocity.Set( r32( 0.000000000000000 ), r32( 0.000000000000000 ), r32( 0.000000000000000 ) );
+	bd.gravityScale = r32( 0.000000000000000 );
+	bd.layers = 1;
+	bd.allowSleep = bool( 4 );
+	bd.awake = bool( 1 );
+	bd.awake = bool( 1 );
+	bd.lockAxisX = bool( 0 );
+	bd.lockAxisY = bool( 0 );
+	bd.lockAxisZ = bool( 0 );
+	bodies[ 1 ] = scene.CreateBody( bd );
+
+	{
+		q3BoxDef sd;
+		sd.SetFriction( r32( 0.400000005960464 ) );
+		sd.SetRestitution( r32( 0.200000002980232 ) );
+		sd.SetDensity( r32( 1.000000000000000 ) );
+		sd.SetSensor( bool( 0 ) );
+		q3Transform boxTx;
+		q3Vec3 xAxis( r32( 1.000000000000000 ), r32( 0.000000000000000 ), r32( 0.000000000000000 ) );
+		q3Vec3 yAxis( r32( 0.000000000000000 ), r32( 1.000000000000000 ), r32( 0.000000000000000 ) );
+		q3Vec3 zAxis( r32( 0.000000000000000 ), r32( 0.000000000000000 ), r32( 1.000000000000000 ) );
+		boxTx.rotation.SetRows( xAxis, yAxis, zAxis );
+		boxTx.position.Set( r32( 0.000000000000000 ), r32( 0.000000000000000 ), r32( 0.000000000000000 ) );
+		sd.Set( boxTx, q3Vec3( r32( 5.000000000000000 ), r32( 500.000000000000000 ), r32( 5.000000000000000 ) ) );
+		bodies[ 1 ]->AddBox( sd );
+	}
+}
+

@@ -1,0 +1,20 @@
+{
+	q3BodyDef bd;
+	bd.bodyType = q3BodyType( 1 );
+	bd.position.Set( r32( 85.883529663085938 ), r32( -0.240000009536743 ), r32( 6.263263702392578 ) );
+	bd.axis.Set( r32( 0.000765774399042 ), r32( -0.000765773875173 ), r32( -0.999999403953552 ) );
+	bd.angle = r32( 1.570796489715576 );
+	bd.linearVelocity.Set( r32( 0.000000000000000 ), r32( 0.000000000000000 ), r32( 0.000000000000000 ) );
+	bd.angularVelocity.Set( r32( 0.000000000000000 ), r32( 0.000000000000000 ), r32( -0.000003814697266 ) );
+	bd.gravityScale = r32( 1.000000000000000 );
+	bd.layers = 1;
+	bd.allowSleep = bool( 4 );
+	bd.awake = bool( 1 );
+	bd.awake = bool( 1 );
+	bd.lockAxisX = bool( 0 );
+	bd.lockAxisY = bool( 0 );
+	bd.lockAxisZ = bool( 0 );
+	bodies[ 1 ] = scene.CreateBody( bd );
+
+}
+

@@ -1,0 +1,549 @@
+﻿  animatedMesh.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(45,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(72,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(129,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(133,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(229,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(237,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(241,27): warning C4018: '<': signed/unsigned mismatch
+  AssimpConverter.cpp
+  display.cpp
+  EntityAPI.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedObject.h(88,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(91,21): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(116,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\particleSystem.h(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(50,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(77,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(66,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(69,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(105,45): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(152,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(153,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(154,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(160,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(161,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(162,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(210,1): warning C4102: 'std': unreferenced label
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(219,43): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(249,10): warning C4101: 'buffer': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(267,43): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp(59,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp(200,22): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp(202,22): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp(219,53): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp(220,53): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp(226,18): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp(227,18): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  FrameBuffer.cpp
+  Globals.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(91,21): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(116,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\text.h(22,50): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\text.h(28,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\text.h(28,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\Globals.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+  luaLibrary.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\lambe\source\repos\WizardGame\WizardGame\luaLibrary.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedObject.h(88,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(91,21): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(116,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\particleSystem.h(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(50,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(77,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(66,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(69,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(105,45): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(152,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(153,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(154,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(160,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(161,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(162,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(210,1): warning C4102: 'std': unreferenced label
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(219,43): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(249,10): warning C4101: 'buffer': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(267,43): warning C4101: 'e': unreferenced local variable
+  main.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(91,21): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(116,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedObject.h(88,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\NPC.h(29,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\NPC.h(30,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\lambe\source\repos\WizardGame\WizardGame\main.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\particleSystem.h(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(50,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(77,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(66,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(69,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(105,45): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(152,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(153,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(154,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(160,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(161,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(162,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(210,1): warning C4102: 'std': unreferenced label
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(219,43): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(249,10): warning C4101: 'buffer': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(267,43): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\prop.h(108,17): warning C4101: 's': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(98,1): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(108,20): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(143,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(167,10): warning C4101: 'buffer': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(208,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(286,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(332,215): warning C4244: 'argument': conversion from 'double' to 'r32', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(332,159): warning C4244: 'argument': conversion from 'double' to 'r32', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(332,103): warning C4244: 'argument': conversion from 'double' to 'r32', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(384,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\projectile.h(77,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\text.h(22,50): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\text.h(28,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\text.h(28,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\menuSystem.h(97,23): warning C4018: '<': signed/unsigned mismatch
+  mesh.cpp
+  object.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(91,21): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(116,23): warning C4018: '<': signed/unsigned mismatch
+  obj_loader.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\obj_loader.cpp(379,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\shader.cpp(106,29): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  SkeletalModel.cpp
+  SkeletalModelSerializer.cpp
+  TextRenderer.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(60,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(60,41): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(107,34): warning C4244: 'argument': conversion from 'FT_Int' to 'GLfloat', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(108,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(116,47): warning C4244: 'argument': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(118,45): warning C4244: 'argument': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(119,58): warning C4244: 'argument': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(119,45): warning C4244: 'argument': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(124,45): warning C4244: 'argument': conversion from 'FT_Pos' to 'GLfloat', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(135,17): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\TextRenderer.cpp(244,22): warning C4018: '<': signed/unsigned mismatch
+  texture.cpp
+  world.cpp
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(91,21): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\CollisionSystem.h(116,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedObject.h(88,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\NPC.h(29,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\NPC.h(30,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\lambe\source\repos\WizardGame\WizardGame\world.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\particleSystem.h(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(50,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(77,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\ProjComponent.h(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(66,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(69,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(105,45): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(152,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(153,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(154,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(160,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(161,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(162,1): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(210,1): warning C4102: 'std': unreferenced label
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(219,43): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(249,10): warning C4101: 'buffer': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entity.h(267,43): warning C4101: 'e': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\prop.h(108,17): warning C4101: 's': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(98,1): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(108,20): warning C4305: 'argument': truncation from 'double' to 'r32'
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(143,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(167,10): warning C4101: 'buffer': unreferenced local variable
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(208,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(286,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(332,215): warning C4244: 'argument': conversion from 'double' to 'r32', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(332,159): warning C4244: 'argument': conversion from 'double' to 'r32', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(332,103): warning C4244: 'argument': conversion from 'double' to 'r32', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\entitySystem.h(384,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\projectile.h(77,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\text.h(22,50): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\text.h(28,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\text.h(28,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lambe\source\repos\WizardGame\WizardGame\menuSystem.h(97,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\source\repos\WizardGame\WizardGame\world.cpp(36,46): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
+  Generating Code...
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp(448): warning C4715: 'Entity::Fire': not all control paths return a value
+C:\Users\lambe\source\repos\WizardGame\WizardGame\EntityAPI.cpp(509): warning C4715: 'Entity::isAnimationPlaying': not all control paths return a value
+C:\Users\lambe\source\repos\WizardGame\WizardGame\animatedMesh.cpp(169): warning C4715: 'animatedMesh::Update': not all control paths return a value
+  stb_image.c
+animatedMesh.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+animatedMesh.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+animatedMesh.obj : error LNK2001: unresolved external symbol __imp____glewDeleteBuffers
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewDeleteBuffers
+animatedMesh.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+animatedMesh.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+animatedMesh.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+animatedMesh.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+animatedMesh.obj : error LNK2001: unresolved external symbol __imp____glewDeleteVertexArrays
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewDeleteVertexArrays
+animatedMesh.obj : error LNK2001: unresolved external symbol __imp____glewGenVertexArrays
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewGenVertexArrays
+display.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function "public: __thiscall Display::Display(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Display@@QAE@HHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+display.obj : error LNK2019: unresolved external symbol _SDL_SetWindowGrab referenced in function "public: __thiscall Display::Display(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Display@@QAE@HHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+display.obj : error LNK2019: unresolved external symbol _SDL_DestroyWindow referenced in function "public: virtual __thiscall Display::~Display(void)" (??1Display@@UAE@XZ)
+display.obj : error LNK2019: unresolved external symbol _SDL_GL_SetAttribute referenced in function "public: __thiscall Display::Display(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Display@@QAE@HHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+display.obj : error LNK2019: unresolved external symbol _SDL_GL_CreateContext referenced in function "public: __thiscall Display::Display(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Display@@QAE@HHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+display.obj : error LNK2019: unresolved external symbol _SDL_GL_SwapWindow referenced in function "public: void __thiscall Display::Update(void)" (?Update@Display@@QAEXXZ)
+display.obj : error LNK2019: unresolved external symbol _SDL_GL_DeleteContext referenced in function "public: virtual __thiscall Display::~Display(void)" (??1Display@@UAE@XZ)
+display.obj : error LNK2019: unresolved external symbol _SDL_SetRelativeMouseMode referenced in function "public: __thiscall Display::Display(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Display@@QAE@HHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+EntityAPI.obj : error LNK2001: unresolved external symbol _SDL_SetRelativeMouseMode
+display.obj : error LNK2019: unresolved external symbol _SDL_PollEvent referenced in function "public: void __thiscall Display::Update(void)" (?Update@Display@@QAEXXZ)
+EntityAPI.obj : error LNK2001: unresolved external symbol _SDL_PollEvent
+display.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function "public: __thiscall Display::Display(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Display@@QAE@HHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+display.obj : error LNK2019: unresolved external symbol _SDL_Quit referenced in function "public: virtual __thiscall Display::~Display(void)" (??1Display@@UAE@XZ)
+display.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function "public: __thiscall Display::Display(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Display@@QAE@HHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+display.obj : error LNK2001: unresolved external symbol __imp____glewBindFramebuffer
+FrameBuffer.obj : error LNK2001: unresolved external symbol __imp____glewBindFramebuffer
+main.obj : error LNK2001: unresolved external symbol __imp____glewBindFramebuffer
+texture.obj : error LNK2001: unresolved external symbol __imp____glewBindFramebuffer
+EntityAPI.obj : error LNK2019: unresolved external symbol _SDL_GetKeyboardState referenced in function "public: void __thiscall Entity::FPSControllerUpdate(float)" (?FPSControllerUpdate@Entity@@QAEXM@Z)
+EntityAPI.obj : error LNK2019: unresolved external symbol _SDL_GetRelativeMouseState referenced in function "public: void __thiscall Entity::FPSControllerUpdate(float)" (?FPSControllerUpdate@Entity@@QAEXM@Z)
+EntityAPI.obj : error LNK2019: unresolved external symbol _SDL_PumpEvents referenced in function "public: void __thiscall Entity::FPSControllerUpdate(float)" (?FPSControllerUpdate@Entity@@QAEXM@Z)
+EntityAPI.obj : error LNK2019: unresolved external symbol _SDL_Delay referenced in function "public: void __thiscall Entity::Delay(int)" (?Delay@Entity@@QAEXH@Z)
+world.obj : error LNK2001: unresolved external symbol _SDL_Delay
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: __thiscall q3Vec3::q3Vec3(void)" (??0q3Vec3@@QAE@XZ) referenced in function "public: __thiscall q3BoxDef::q3BoxDef(void)" (??0q3BoxDef@@QAE@XZ)
+main.obj : error LNK2001: unresolved external symbol "public: __thiscall q3Vec3::q3Vec3(void)" (??0q3Vec3@@QAE@XZ)
+world.obj : error LNK2001: unresolved external symbol "public: __thiscall q3Vec3::q3Vec3(void)" (??0q3Vec3@@QAE@XZ)
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: __thiscall q3Vec3::q3Vec3(float,float,float)" (??0q3Vec3@@QAE@MMM@Z) referenced in function "public: void __thiscall Box::addBox(struct glm::vec<3,float,0>,struct glm::vec<3,float,0>)" (?addBox@Box@@QAEXU?$vec@$02M$0A@@glm@@0@Z)
+main.obj : error LNK2001: unresolved external symbol "public: __thiscall q3Vec3::q3Vec3(float,float,float)" (??0q3Vec3@@QAE@MMM@Z)
+world.obj : error LNK2001: unresolved external symbol "public: __thiscall q3Vec3::q3Vec3(float,float,float)" (??0q3Vec3@@QAE@MMM@Z)
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Vec3::Set(float,float,float)" (?Set@q3Vec3@@QAEXMMM@Z) referenced in function "void __cdecl q3Identity(struct q3Vec3 &)" (?q3Identity@@YAXAAUq3Vec3@@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: void __thiscall q3Vec3::Set(float,float,float)" (?Set@q3Vec3@@QAEXMMM@Z)
+world.obj : error LNK2001: unresolved external symbol "public: void __thiscall q3Vec3::Set(float,float,float)" (?Set@q3Vec3@@QAEXMMM@Z)
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: struct q3Vec3 const __thiscall q3Vec3::operator*(float)const " (??Dq3Vec3@@QBE?BU0@M@Z) referenced in function "public: void __thiscall q3BoxDef::Set(struct q3Transform const &,struct q3Vec3 const &)" (?Set@q3BoxDef@@QAEXABUq3Transform@@ABUq3Vec3@@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: struct q3Vec3 const __thiscall q3Vec3::operator*(float)const " (??Dq3Vec3@@QBE?BU0@M@Z)
+world.obj : error LNK2001: unresolved external symbol "public: struct q3Vec3 const __thiscall q3Vec3::operator*(float)const " (??Dq3Vec3@@QBE?BU0@M@Z)
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: __thiscall q3Mat3::q3Mat3(void)" (??0q3Mat3@@QAE@XZ) referenced in function "public: __thiscall q3Transform::q3Transform(void)" (??0q3Transform@@QAE@XZ)
+main.obj : error LNK2001: unresolved external symbol "public: __thiscall q3Mat3::q3Mat3(void)" (??0q3Mat3@@QAE@XZ)
+world.obj : error LNK2001: unresolved external symbol "public: __thiscall q3Mat3::q3Mat3(void)" (??0q3Mat3@@QAE@XZ)
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Mat3::Set(float,float,float,float,float,float,float,float,float)" (?Set@q3Mat3@@QAEXMMMMMMMMM@Z) referenced in function "void __cdecl q3Identity(struct q3Mat3 &)" (?q3Identity@@YAXAAUq3Mat3@@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: void __thiscall q3Mat3::Set(float,float,float,float,float,float,float,float,float)" (?Set@q3Mat3@@QAEXMMMMMMMMM@Z)
+world.obj : error LNK2001: unresolved external symbol "public: void __thiscall q3Mat3::Set(float,float,float,float,float,float,float,float,float)" (?Set@q3Mat3@@QAEXMMMMMMMMM@Z)
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: struct q3Mat3 & __thiscall q3Mat3::operator=(struct q3Mat3 const &)" (??4q3Mat3@@QAEAAU0@ABU0@@Z) referenced in function "public: struct q3Transform & __thiscall q3Transform::operator=(struct q3Transform const &)" (??4q3Transform@@QAEAAU0@ABU0@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: struct q3Mat3 & __thiscall q3Mat3::operator=(struct q3Mat3 const &)" (??4q3Mat3@@QAEAAU0@ABU0@@Z)
+world.obj : error LNK2001: unresolved external symbol "public: struct q3Mat3 & __thiscall q3Mat3::operator=(struct q3Mat3 const &)" (??4q3Mat3@@QAEAAU0@ABU0@@Z)
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: struct q3Box const * __thiscall q3Body::AddBox(class q3BoxDef const &)" (?AddBox@q3Body@@QAEPBUq3Box@@ABVq3BoxDef@@@Z) referenced in function "public: void __thiscall Box::addBox(struct glm::vec<3,float,0>,struct glm::vec<3,float,0>)" (?addBox@Box@@QAEXU?$vec@$02M$0A@@glm@@0@Z)
+main.obj : error LNK2001: unresolved external symbol "public: struct q3Box const * __thiscall q3Body::AddBox(class q3BoxDef const &)" (?AddBox@q3Body@@QAEPBUq3Box@@ABVq3BoxDef@@@Z)
+world.obj : error LNK2001: unresolved external symbol "public: struct q3Box const * __thiscall q3Body::AddBox(class q3BoxDef const &)" (?AddBox@q3Body@@QAEPBUq3Box@@ABVq3BoxDef@@@Z)
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Body::RemoveAllBoxes(void)" (?RemoveAllBoxes@q3Body@@QAEXXZ) referenced in function "public: void __thiscall Entity::kill(void)" (?kill@Entity@@QAEXXZ)
+EntityAPI.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Body::SetLinearVelocity(struct q3Vec3 const &)" (?SetLinearVelocity@q3Body@@QAEXABUq3Vec3@@@Z) referenced in function "public: void __thiscall Box::resetVelocity(void)" (?resetVelocity@Box@@QAEXXZ)
+world.obj : error LNK2001: unresolved external symbol "public: void __thiscall q3Body::SetLinearVelocity(struct q3Vec3 const &)" (?SetLinearVelocity@q3Body@@QAEXABUq3Vec3@@@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "void __cdecl lua_settop(struct lua_State *,int)" (?lua_settop@@YAXPAUlua_State@@H@Z) referenced in function "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl luah::getTableKeys(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?getTableKeys@luah@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@PAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z)
+main.obj : error LNK2001: unresolved external symbol "void __cdecl lua_settop(struct lua_State *,int)" (?lua_settop@@YAXPAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_settop(struct lua_State *,int)" (?lua_settop@@YAXPAUlua_State@@H@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "int __cdecl lua_type(struct lua_State *,int)" (?lua_type@@YAHPAUlua_State@@H@Z) referenced in function "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl luah::getTableKeys(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?getTableKeys@luah@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@PAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z)
+main.obj : error LNK2001: unresolved external symbol "int __cdecl lua_type(struct lua_State *,int)" (?lua_type@@YAHPAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_type(struct lua_State *,int)" (?lua_type@@YAHPAUlua_State@@H@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "char const * __cdecl lua_tolstring(struct lua_State *,int,unsigned int *)" (?lua_tolstring@@YAPBDPAUlua_State@@HPAI@Z) referenced in function "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl luah::getTableKeys(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?getTableKeys@luah@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@PAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z)
+main.obj : error LNK2001: unresolved external symbol "char const * __cdecl lua_tolstring(struct lua_State *,int,unsigned int *)" (?lua_tolstring@@YAPBDPAUlua_State@@HPAI@Z)
+world.obj : error LNK2001: unresolved external symbol "char const * __cdecl lua_tolstring(struct lua_State *,int,unsigned int *)" (?lua_tolstring@@YAPBDPAUlua_State@@HPAI@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "void __cdecl lua_pushnil(struct lua_State *)" (?lua_pushnil@@YAXPAUlua_State@@@Z) referenced in function "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl luah::getTableKeys(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?getTableKeys@luah@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@PAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z)
+main.obj : error LNK2001: unresolved external symbol "void __cdecl lua_pushnil(struct lua_State *)" (?lua_pushnil@@YAXPAUlua_State@@@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_pushnil(struct lua_State *)" (?lua_pushnil@@YAXPAUlua_State@@@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "void __cdecl lua_getglobal(struct lua_State *,char const *)" (?lua_getglobal@@YAXPAUlua_State@@PBD@Z) referenced in function "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl luah::getTableKeys(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?getTableKeys@luah@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@PAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z)
+main.obj : error LNK2001: unresolved external symbol "void __cdecl lua_getglobal(struct lua_State *,char const *)" (?lua_getglobal@@YAXPAUlua_State@@PBD@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_getglobal(struct lua_State *,char const *)" (?lua_getglobal@@YAXPAUlua_State@@PBD@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "void __cdecl lua_getfield(struct lua_State *,int,char const *)" (?lua_getfield@@YAXPAUlua_State@@HPBD@Z) referenced in function "void __cdecl luah::lua_gettostack(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?lua_gettostack@luah@@YAXPAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "int __cdecl lua_pcallk(struct lua_State *,int,int,int,int,int (__cdecl*)(struct lua_State *))" (?lua_pcallk@@YAHPAUlua_State@@HHHHP6AH0@Z@Z) referenced in function "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl luah::getTableKeys(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?getTableKeys@luah@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@PAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z)
+main.obj : error LNK2001: unresolved external symbol "int __cdecl lua_pcallk(struct lua_State *,int,int,int,int,int (__cdecl*)(struct lua_State *))" (?lua_pcallk@@YAHPAUlua_State@@HHHHP6AH0@Z@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_pcallk(struct lua_State *,int,int,int,int,int (__cdecl*)(struct lua_State *))" (?lua_pcallk@@YAHPAUlua_State@@HHHHP6AH0@Z@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "int __cdecl lua_next(struct lua_State *,int)" (?lua_next@@YAHPAUlua_State@@H@Z) referenced in function "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl luah::getTableKeys(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?getTableKeys@luah@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@PAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "int __cdecl luaL_loadfilex(struct lua_State *,char const *,char const *)" (?luaL_loadfilex@@YAHPAUlua_State@@PBD1@Z) referenced in function "bool __cdecl luah::loadScript(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadScript@luah@@YA_NPAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+luaLibrary.obj : error LNK2019: unresolved external symbol "int __cdecl luaL_loadstring(struct lua_State *,char const *)" (?luaL_loadstring@@YAHPAUlua_State@@PBD@Z) referenced in function "void __cdecl luah::loadGetKeysFunction(struct lua_State *)" (?loadGetKeysFunction@luah@@YAXPAUlua_State@@@Z)
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall q3Scene::q3Scene(float,struct q3Vec3 const &,int)" (??0q3Scene@@QAE@MABUq3Vec3@@H@Z) referenced in function "public: __thiscall CollisionSystem::CollisionSystem(void)" (??0CollisionSystem@@QAE@XZ)
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall q3Scene::~q3Scene(void)" (??1q3Scene@@QAE@XZ) referenced in function __unwindfunclet$??0CollisionSystem@@QAE@XZ$0
+world.obj : error LNK2001: unresolved external symbol "public: __thiscall q3Scene::~q3Scene(void)" (??1q3Scene@@QAE@XZ)
+main.obj : error LNK2019: unresolved external symbol "public: class q3Body * __thiscall q3Scene::CreateBody(struct q3BodyDef const &)" (?CreateBody@q3Scene@@QAEPAVq3Body@@ABUq3BodyDef@@@Z) referenced in function "public: void __thiscall Box::init(struct glm::vec<3,float,0>,struct glm::vec<3,float,0>,class q3Scene *,enum q3BodyType)" (?init@Box@@QAEXU?$vec@$02M$0A@@glm@@0PAVq3Scene@@W4q3BodyType@@@Z)
+world.obj : error LNK2001: unresolved external symbol "public: class q3Body * __thiscall q3Scene::CreateBody(struct q3BodyDef const &)" (?CreateBody@q3Scene@@QAEPAVq3Body@@ABUq3BodyDef@@@Z)
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Body::SetTransform(struct q3Vec3 const &)" (?SetTransform@q3Body@@QAEXABUq3Vec3@@@Z) referenced in function "public: void __thiscall Box::init(struct glm::vec<3,float,0>,struct glm::vec<3,float,0>,class q3Scene *,enum q3BodyType)" (?init@Box@@QAEXU?$vec@$02M$0A@@glm@@0PAVq3Scene@@W4q3BodyType@@@Z)
+world.obj : error LNK2001: unresolved external symbol "public: void __thiscall q3Body::SetTransform(struct q3Vec3 const &)" (?SetTransform@q3Body@@QAEXABUq3Vec3@@@Z)
+main.obj : error LNK2019: unresolved external symbol "int (__cdecl*__cdecl lua_atpanic(struct lua_State *,int (__cdecl*)(struct lua_State *)))(struct lua_State *)" (?lua_atpanic@@YAP6AHPAUlua_State@@@Z0P6AH0@Z@Z) referenced in function "public: static void __cdecl luabridge::LuaException::enableExceptions(struct lua_State *)" (?enableExceptions@LuaException@luabridge@@SAXPAUlua_State@@@Z)
+world.obj : error LNK2001: unresolved external symbol "int (__cdecl*__cdecl lua_atpanic(struct lua_State *,int (__cdecl*)(struct lua_State *)))(struct lua_State *)" (?lua_atpanic@@YAP6AHPAUlua_State@@@Z0P6AH0@Z@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_absindex(struct lua_State *,int)" (?lua_absindex@@YAHPAUlua_State@@H@Z) referenced in function "private: static class luabridge::Userdata * __cdecl luabridge::Userdata::getClass(struct lua_State *,int,void const *,void const *,bool)" (?getClass@Userdata@luabridge@@CAPAV12@PAUlua_State@@HPBX1_N@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_absindex(struct lua_State *,int)" (?lua_absindex@@YAHPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_gettop(struct lua_State *)" (?lua_gettop@@YAHPAUlua_State@@@Z) referenced in function "protected: __thiscall luabridge::detail::Registrar::~Registrar(void)" (??1Registrar@detail@luabridge@@IAE@XZ)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_gettop(struct lua_State *)" (?lua_gettop@@YAHPAUlua_State@@@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_pushvalue(struct lua_State *,int)" (?lua_pushvalue@@YAXPAUlua_State@@H@Z) referenced in function "public: __thiscall luabridge::Namespace::Class<class Entity>::Class<class Entity>(char const *,class luabridge::Namespace &)" (??0?$Class@VEntity@@@Namespace@luabridge@@QAE@PBDAAV12@@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_pushvalue(struct lua_State *,int)" (?lua_pushvalue@@YAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_remove(struct lua_State *,int)" (?lua_remove@@YAXPAUlua_State@@H@Z) referenced in function "private: static class luabridge::Userdata * __cdecl luabridge::Userdata::getClass(struct lua_State *,int,void const *,void const *,bool)" (?getClass@Userdata@luabridge@@CAPAV12@PAUlua_State@@HPBX1_N@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_remove(struct lua_State *,int)" (?lua_remove@@YAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_insert(struct lua_State *,int)" (?lua_insert@@YAXPAUlua_State@@H@Z) referenced in function "public: __thiscall luabridge::Namespace::Class<class Entity>::Class<class Entity>(char const *,class luabridge::Namespace &)" (??0?$Class@VEntity@@@Namespace@luabridge@@QAE@PBDAAV12@@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_insert(struct lua_State *,int)" (?lua_insert@@YAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_isstring(struct lua_State *,int)" (?lua_isstring@@YAHPAUlua_State@@H@Z) referenced in function "private: static class luabridge::Userdata * __cdecl luabridge::Userdata::throwBadArg(struct lua_State *,int)" (?throwBadArg@Userdata@luabridge@@CAPAV12@PAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_isstring(struct lua_State *,int)" (?lua_isstring@@YAHPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_iscfunction(struct lua_State *,int)" (?lua_iscfunction@@YAHPAUlua_State@@H@Z) referenced in function "public: static int __cdecl luabridge::CFunc::indexMetaMethod(struct lua_State *)" (?indexMetaMethod@CFunc@luabridge@@SAHPAUlua_State@@@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_iscfunction(struct lua_State *,int)" (?lua_iscfunction@@YAHPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_isuserdata(struct lua_State *,int)" (?lua_isuserdata@@YAHPAUlua_State@@H@Z) referenced in function "public: static int __cdecl luabridge::CFunc::indexMetaMethod(struct lua_State *)" (?indexMetaMethod@CFunc@luabridge@@SAHPAUlua_State@@@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_isuserdata(struct lua_State *,int)" (?lua_isuserdata@@YAHPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "char const * __cdecl lua_typename(struct lua_State *,int)" (?lua_typename@@YAPBDPAUlua_State@@H@Z) referenced in function "private: static class luabridge::Userdata * __cdecl luabridge::Userdata::throwBadArg(struct lua_State *,int)" (?throwBadArg@Userdata@luabridge@@CAPAV12@PAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "char const * __cdecl lua_typename(struct lua_State *,int)" (?lua_typename@@YAPBDPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_toboolean(struct lua_State *,int)" (?lua_toboolean@@YAHPAUlua_State@@H@Z) referenced in function "public: static bool __cdecl luabridge::Stack<bool>::get(struct lua_State *,int)" (?get@?$Stack@_N@luabridge@@SA_NPAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_toboolean(struct lua_State *,int)" (?lua_toboolean@@YAHPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void * __cdecl lua_touserdata(struct lua_State *,int)" (?lua_touserdata@@YAPAXPAUlua_State@@H@Z) referenced in function "public: static int __cdecl luabridge::CFunc::Call<float (__cdecl*)(float,float,float,float)>::f(struct lua_State *)" (?f@?$Call@P6AMMMMM@Z@CFunc@luabridge@@SAHPAUlua_State@@@Z)
+world.obj : error LNK2001: unresolved external symbol "void * __cdecl lua_touserdata(struct lua_State *,int)" (?lua_touserdata@@YAPAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_rawequal(struct lua_State *,int,int)" (?lua_rawequal@@YAHPAUlua_State@@HH@Z) referenced in function "private: static class luabridge::Userdata * __cdecl luabridge::Userdata::getClass(struct lua_State *,int,void const *,void const *,bool)" (?getClass@Userdata@luabridge@@CAPAV12@PAUlua_State@@HPBX1_N@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_rawequal(struct lua_State *,int,int)" (?lua_rawequal@@YAHPAUlua_State@@HH@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_compare(struct lua_State *,int,int,int)" (?lua_compare@@YAHPAUlua_State@@HHH@Z) referenced in function "public: bool __thiscall luabridge::LuaRefBase<class luabridge::LuaRef::Proxy,class luabridge::LuaRef>::operator==<char const *>(char const *)const " (??$?8PBD@?$LuaRefBase@VProxy@LuaRef@luabridge@@V23@@luabridge@@QBE_NPBD@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_pushnumber(struct lua_State *,double)" (?lua_pushnumber@@YAXPAUlua_State@@N@Z) referenced in function "public: static void __cdecl luabridge::Stack<float>::push(struct lua_State *,float)" (?push@?$Stack@M@luabridge@@SAXPAUlua_State@@M@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_pushnumber(struct lua_State *,double)" (?lua_pushnumber@@YAXPAUlua_State@@N@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_pushinteger(struct lua_State *,int)" (?lua_pushinteger@@YAXPAUlua_State@@H@Z) referenced in function "public: static void __cdecl luabridge::Stack<int>::push(struct lua_State *,int)" (?push@?$Stack@H@luabridge@@SAXPAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_pushinteger(struct lua_State *,int)" (?lua_pushinteger@@YAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "char const * __cdecl lua_pushlstring(struct lua_State *,char const *,unsigned int)" (?lua_pushlstring@@YAPBDPAUlua_State@@PBDI@Z) referenced in function "public: static void __cdecl luabridge::Stack<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::push(struct lua_State *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?push@?$Stack@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@luabridge@@SAXPAUlua_State@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+world.obj : error LNK2001: unresolved external symbol "char const * __cdecl lua_pushlstring(struct lua_State *,char const *,unsigned int)" (?lua_pushlstring@@YAPBDPAUlua_State@@PBDI@Z)
+main.obj : error LNK2019: unresolved external symbol "char const * __cdecl lua_pushstring(struct lua_State *,char const *)" (?lua_pushstring@@YAPBDPAUlua_State@@PBD@Z) referenced in function "protected: void __thiscall luabridge::Namespace::ClassBase::createConstTable(char const *,bool)" (?createConstTable@ClassBase@Namespace@luabridge@@IAEXPBD_N@Z)
+world.obj : error LNK2001: unresolved external symbol "char const * __cdecl lua_pushstring(struct lua_State *,char const *)" (?lua_pushstring@@YAPBDPAUlua_State@@PBD@Z)
+main.obj : error LNK2019: unresolved external symbol "char const * __cdecl lua_pushfstring(struct lua_State *,char const *,...)" (?lua_pushfstring@@YAPBDPAUlua_State@@PBDZZ) referenced in function "private: static class luabridge::Userdata * __cdecl luabridge::Userdata::throwBadArg(struct lua_State *,int)" (?throwBadArg@Userdata@luabridge@@CAPAV12@PAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "char const * __cdecl lua_pushfstring(struct lua_State *,char const *,...)" (?lua_pushfstring@@YAPBDPAUlua_State@@PBDZZ)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_pushcclosure(struct lua_State *,int (__cdecl*)(struct lua_State *),int)" (?lua_pushcclosure@@YAXPAUlua_State@@P6AH0@ZH@Z) referenced in function "public: class luabridge::Namespace & __thiscall luabridge::Namespace::addFunction<float (__cdecl*)(float,float,float,float)>(char const *,float (__cdecl*const)(float,float,float,float))" (??$addFunction@P6AMMMMM@Z@Namespace@luabridge@@QAEAAV01@PBDQ6AMMMMM@Z@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_pushcclosure(struct lua_State *,int (__cdecl*)(struct lua_State *),int)" (?lua_pushcclosure@@YAXPAUlua_State@@P6AH0@ZH@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_pushboolean(struct lua_State *,int)" (?lua_pushboolean@@YAXPAUlua_State@@H@Z) referenced in function "public: static void __cdecl luabridge::Stack<bool>::push(struct lua_State *,bool)" (?push@?$Stack@_N@luabridge@@SAXPAUlua_State@@_N@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_pushboolean(struct lua_State *,int)" (?lua_pushboolean@@YAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_pushlightuserdata(struct lua_State *,void *)" (?lua_pushlightuserdata@@YAXPAUlua_State@@PAX@Z) referenced in function "public: class luabridge::Namespace & __thiscall luabridge::Namespace::addFunction<float (__cdecl*)(float,float,float,float)>(char const *,float (__cdecl*const)(float,float,float,float))" (??$addFunction@P6AMMMMM@Z@Namespace@luabridge@@QAEAAV01@PBDQ6AMMMMM@Z@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_pushlightuserdata(struct lua_State *,void *)" (?lua_pushlightuserdata@@YAXPAUlua_State@@PAX@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_gettable(struct lua_State *,int)" (?lua_gettable@@YAXPAUlua_State@@H@Z) referenced in function "public: void __thiscall luabridge::LuaRef::Proxy::push(void)const " (?push@Proxy@LuaRef@luabridge@@QBEXXZ)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_gettable(struct lua_State *,int)" (?lua_gettable@@YAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_rawget(struct lua_State *,int)" (?lua_rawget@@YAXPAUlua_State@@H@Z) referenced in function "public: static int __cdecl luabridge::CFunc::indexMetaMethod(struct lua_State *)" (?indexMetaMethod@CFunc@luabridge@@SAHPAUlua_State@@@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_rawget(struct lua_State *,int)" (?lua_rawget@@YAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_rawgeti(struct lua_State *,int,int)" (?lua_rawgeti@@YAXPAUlua_State@@HH@Z) referenced in function "public: __thiscall luabridge::LuaRef::Proxy::Proxy(struct lua_State *,int)" (??0Proxy@LuaRef@luabridge@@QAE@PAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_rawgeti(struct lua_State *,int,int)" (?lua_rawgeti@@YAXPAUlua_State@@HH@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_rawgetp(struct lua_State *,int,void const *)" (?lua_rawgetp@@YAXPAUlua_State@@HPBX@Z) referenced in function "public: __thiscall luabridge::Namespace::Class<class Entity>::Class<class Entity>(char const *,class luabridge::Namespace &)" (??0?$Class@VEntity@@@Namespace@luabridge@@QAE@PBDAAV12@@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_rawgetp(struct lua_State *,int,void const *)" (?lua_rawgetp@@YAXPAUlua_State@@HPBX@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_createtable(struct lua_State *,int,int)" (?lua_createtable@@YAXPAUlua_State@@HH@Z) referenced in function "private: __thiscall luabridge::Namespace::Namespace(char const *,class luabridge::Namespace &)" (??0Namespace@luabridge@@AAE@PBDAAV01@@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_createtable(struct lua_State *,int,int)" (?lua_createtable@@YAXPAUlua_State@@HH@Z)
+main.obj : error LNK2019: unresolved external symbol "void * __cdecl lua_newuserdata(struct lua_State *,unsigned int)" (?lua_newuserdata@@YAPAXPAUlua_State@@I@Z) referenced in function "public: static void __cdecl luabridge::CFunc::CallMemberFunctionHelper<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > (__thiscall Entity::*)(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >),0>::add(struct lua_State *,char const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > (__thiscall Entity::*)(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >))" (?add@?$CallMemberFunctionHelper@P8Entity@@AE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V23@@Z$0A@@CFunc@luabridge@@SAXPAUlua_State@@PBDP8Entity@@AE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V67@@Z@Z)
+world.obj : error LNK2001: unresolved external symbol "void * __cdecl lua_newuserdata(struct lua_State *,unsigned int)" (?lua_newuserdata@@YAPAXPAUlua_State@@I@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_getmetatable(struct lua_State *,int)" (?lua_getmetatable@@YAHPAUlua_State@@H@Z) referenced in function "private: static class luabridge::Userdata * __cdecl luabridge::Userdata::getClass(struct lua_State *,int,void const *,void const *,bool)" (?getClass@Userdata@luabridge@@CAPAV12@PAUlua_State@@HPBX1_N@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_getmetatable(struct lua_State *,int)" (?lua_getmetatable@@YAHPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_rawset(struct lua_State *,int)" (?lua_rawset@@YAXPAUlua_State@@H@Z) referenced in function "void __cdecl luabridge::rawsetfield(struct lua_State *,int,char const *)" (?rawsetfield@luabridge@@YAXPAUlua_State@@HPBD@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_rawset(struct lua_State *,int)" (?lua_rawset@@YAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_rawsetp(struct lua_State *,int,void const *)" (?lua_rawsetp@@YAXPAUlua_State@@HPBX@Z) referenced in function "public: __thiscall luabridge::Namespace::Class<class Entity>::Class<class Entity>(char const *,class luabridge::Namespace &)" (??0?$Class@VEntity@@@Namespace@luabridge@@QAE@PBDAAV12@@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_rawsetp(struct lua_State *,int,void const *)" (?lua_rawsetp@@YAXPAUlua_State@@HPBX@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl lua_setmetatable(struct lua_State *,int)" (?lua_setmetatable@@YAHPAUlua_State@@H@Z) referenced in function "private: __thiscall luabridge::Namespace::Namespace(char const *,class luabridge::Namespace &)" (??0Namespace@luabridge@@AAE@PBDAAV01@@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl lua_setmetatable(struct lua_State *,int)" (?lua_setmetatable@@YAHPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_callk(struct lua_State *,int,int,int,int (__cdecl*)(struct lua_State *))" (?lua_callk@@YAXPAUlua_State@@HHHP6AH0@Z@Z) referenced in function "public: static int __cdecl luabridge::CFunc::indexMetaMethod(struct lua_State *)" (?indexMetaMethod@CFunc@luabridge@@SAHPAUlua_State@@@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_callk(struct lua_State *,int,int,int,int (__cdecl*)(struct lua_State *))" (?lua_callk@@YAXPAUlua_State@@HHHP6AH0@Z@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl lua_len(struct lua_State *,int)" (?lua_len@@YAXPAUlua_State@@H@Z) referenced in function "int __cdecl luabridge::get_length(struct lua_State *,int)" (?get_length@luabridge@@YAHPAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl lua_len(struct lua_State *,int)" (?lua_len@@YAXPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl luaL_argerror(struct lua_State *,int,char const *)" (?luaL_argerror@@YAHPAUlua_State@@HPBD@Z) referenced in function "private: static class luabridge::Userdata * __cdecl luabridge::Userdata::throwBadArg(struct lua_State *,int)" (?throwBadArg@Userdata@luabridge@@CAPAV12@PAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl luaL_argerror(struct lua_State *,int,char const *)" (?luaL_argerror@@YAHPAUlua_State@@HPBD@Z)
+main.obj : error LNK2019: unresolved external symbol "double __cdecl luaL_checknumber(struct lua_State *,int)" (?luaL_checknumber@@YANPAUlua_State@@H@Z) referenced in function "public: static float __cdecl luabridge::Stack<float>::get(struct lua_State *,int)" (?get@?$Stack@M@luabridge@@SAMPAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "double __cdecl luaL_checknumber(struct lua_State *,int)" (?luaL_checknumber@@YANPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl luaL_checkinteger(struct lua_State *,int)" (?luaL_checkinteger@@YAHPAUlua_State@@H@Z) referenced in function "public: static int __cdecl luabridge::Stack<int>::get(struct lua_State *,int)" (?get@?$Stack@H@luabridge@@SAHPAUlua_State@@H@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl luaL_checkinteger(struct lua_State *,int)" (?luaL_checkinteger@@YAHPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl luaL_error(struct lua_State *,char const *,...)" (?luaL_error@@YAHPAUlua_State@@PBDZZ) referenced in function __catch$??$run@P6AMMMMM@Z@?$Invoke@MU?$TypeList@MU?$TypeList@MU?$TypeList@MU?$TypeList@MX@luabridge@@@luabridge@@@luabridge@@@luabridge@@$00@luabridge@@SAHPAUlua_State@@AAP6AMMMMM@Z@Z$0
+world.obj : error LNK2001: unresolved external symbol "int __cdecl luaL_error(struct lua_State *,char const *,...)" (?luaL_error@@YAHPAUlua_State@@PBDZZ)
+main.obj : error LNK2019: unresolved external symbol "int __cdecl luaL_ref(struct lua_State *,int)" (?luaL_ref@@YAHPAUlua_State@@H@Z) referenced in function "private: __thiscall luabridge::LuaRef::LuaRef(struct lua_State *,struct luabridge::LuaRefBase<class luabridge::LuaRef,class luabridge::LuaRef>::FromStack)" (??0LuaRef@luabridge@@AAE@PAUlua_State@@UFromStack@?$LuaRefBase@VLuaRef@luabridge@@V12@@1@@Z)
+world.obj : error LNK2001: unresolved external symbol "int __cdecl luaL_ref(struct lua_State *,int)" (?luaL_ref@@YAHPAUlua_State@@H@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl luaL_unref(struct lua_State *,int,int)" (?luaL_unref@@YAXPAUlua_State@@HH@Z) referenced in function "public: __thiscall luabridge::LuaRef::~LuaRef(void)" (??1LuaRef@luabridge@@QAE@XZ)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl luaL_unref(struct lua_State *,int,int)" (?luaL_unref@@YAXPAUlua_State@@HH@Z)
+main.obj : error LNK2019: unresolved external symbol "struct lua_State * __cdecl luaL_newstate(void)" (?luaL_newstate@@YAPAUlua_State@@XZ) referenced in function "public: __thiscall Menu::Menu(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Menu@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl luaL_openlibs(struct lua_State *)" (?luaL_openlibs@@YAXPAUlua_State@@@Z) referenced in function "public: __thiscall ProjectileManager::ProjectileManager(void)" (??0ProjectileManager@@QAE@XZ)
+world.obj : error LNK2001: unresolved external symbol "void __cdecl luaL_openlibs(struct lua_State *)" (?luaL_openlibs@@YAXPAUlua_State@@@Z)
+main.obj : error LNK2001: unresolved external symbol __imp____glewBindRenderbuffer
+main.obj : error LNK2001: unresolved external symbol __imp____glewFramebufferRenderbuffer
+main.obj : error LNK2001: unresolved external symbol __imp____glewFramebufferTexture2D
+main.obj : error LNK2001: unresolved external symbol __imp____glewGenFramebuffers
+texture.obj : error LNK2001: unresolved external symbol __imp____glewGenFramebuffers
+main.obj : error LNK2001: unresolved external symbol __imp____glewGenRenderbuffers
+main.obj : error LNK2001: unresolved external symbol __imp____glewRenderbufferStorage
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewDrawElementsBaseVertex
+shader.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewBindAttribLocation
+shader.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewDeleteProgram
+shader.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewDetachShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+shader.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+shader.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+shader.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+shader.obj : error LNK2001: unresolved external symbol __imp____glewUniform4f
+shader.obj : error LNK2001: unresolved external symbol __imp____glewUniformMatrix4fv
+shader.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+shader.obj : error LNK2001: unresolved external symbol __imp____glewValidateProgram
+TextRenderer.obj : error LNK2019: unresolved external symbol _gluOrtho2D@32 referenced in function "void __cdecl glfreetype::pushScreenCoordinateMatrix(void)" (?pushScreenCoordinateMatrix@glfreetype@@YAXXZ)
+TextRenderer.obj : error LNK2019: unresolved external symbol _FT_Init_FreeType referenced in function "public: void __thiscall glfreetype::font_data::init(char const *,unsigned int)" (?init@font_data@glfreetype@@QAEXPBDI@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol _FT_Done_FreeType referenced in function "public: void __thiscall glfreetype::font_data::init(char const *,unsigned int)" (?init@font_data@glfreetype@@QAEXPBDI@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol _FT_New_Face referenced in function "public: void __thiscall glfreetype::font_data::init(char const *,unsigned int)" (?init@font_data@glfreetype@@QAEXPBDI@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol _FT_Done_Face referenced in function "public: void __thiscall glfreetype::font_data::init(char const *,unsigned int)" (?init@font_data@glfreetype@@QAEXPBDI@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol _FT_Set_Char_Size referenced in function "public: void __thiscall glfreetype::font_data::init(char const *,unsigned int)" (?init@font_data@glfreetype@@QAEXPBDI@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol _FT_Load_Glyph referenced in function "struct FT_BitmapGlyphRec_ * __cdecl glfreetype::generateBitmapForFace(struct FT_FaceRec_ *,char)" (?generateBitmapForFace@glfreetype@@YAPAUFT_BitmapGlyphRec_@@PAUFT_FaceRec_@@D@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol _FT_Get_Char_Index referenced in function "struct FT_BitmapGlyphRec_ * __cdecl glfreetype::generateBitmapForFace(struct FT_FaceRec_ *,char)" (?generateBitmapForFace@glfreetype@@YAPAUFT_BitmapGlyphRec_@@PAUFT_FaceRec_@@D@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol _FT_Get_Glyph referenced in function "struct FT_BitmapGlyphRec_ * __cdecl glfreetype::generateBitmapForFace(struct FT_FaceRec_ *,char)" (?generateBitmapForFace@glfreetype@@YAPAUFT_BitmapGlyphRec_@@PAUFT_FaceRec_@@D@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol _FT_Glyph_To_Bitmap referenced in function "struct FT_BitmapGlyphRec_ * __cdecl glfreetype::generateBitmapForFace(struct FT_FaceRec_ *,char)" (?generateBitmapForFace@glfreetype@@YAPAUFT_BitmapGlyphRec_@@PAUFT_FaceRec_@@D@Z)
+texture.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+texture.obj : error LNK2001: unresolved external symbol __imp____glewDeleteFramebuffers
+world.obj : error LNK2019: unresolved external symbol _SDL_GetTicks referenced in function "public: void __thiscall World::Update(void)" (?Update@World@@QAEXXZ)
+world.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Scene::Step(void)" (?Step@q3Scene@@QAEXXZ) referenced in function "public: void __thiscall EntitySystem::Update(struct lua_State *)" (?Update@EntitySystem@@QAEXPAUlua_State@@@Z)
+world.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Scene::RemoveBody(class q3Body *)" (?RemoveBody@q3Scene@@QAEXPAVq3Body@@@Z) referenced in function "public: void __thiscall EntitySystem::Update(struct lua_State *)" (?Update@EntitySystem@@QAEXPAUlua_State@@@Z)
+world.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Body::SetToAwake(void)" (?SetToAwake@q3Body@@QAEXXZ) referenced in function "public: void __thiscall EntitySystem::Update(struct lua_State *)" (?Update@EntitySystem@@QAEXPAUlua_State@@@Z)
+world.obj : error LNK2019: unresolved external symbol "public: struct q3Vec3 const __thiscall q3Body::GetLinearVelocity(void)const " (?GetLinearVelocity@q3Body@@QBE?BUq3Vec3@@XZ) referenced in function "public: void __thiscall ProjectileComponent::Update(void)" (?Update@ProjectileComponent@@QAEXXZ)
+world.obj : error LNK2019: unresolved external symbol "public: struct q3Transform const __thiscall q3Body::GetTransform(void)const " (?GetTransform@q3Body@@QBE?BUq3Transform@@XZ) referenced in function "public: struct glm::vec<3,float,0> __thiscall Box::getPos(void)" (?getPos@Box@@QAE?AU?$vec@$02M$0A@@glm@@XZ)
+world.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Body::SetTransform(struct q3Vec3 const &,struct q3Vec3 const &,float)" (?SetTransform@q3Body@@QAEXABUq3Vec3@@0M@Z) referenced in function "public: void __thiscall ProjectileComponent::collUpdate(void)" (?collUpdate@ProjectileComponent@@QAEXXZ)
+world.obj : error LNK2019: unresolved external symbol "public: void __thiscall q3Body::Dump(struct _iobuf *,int)const " (?Dump@q3Body@@QBEXPAU_iobuf@@H@Z) referenced in function "public: void __thiscall EntitySystem::DumpToFile(void)" (?DumpToFile@EntitySystem@@QAEXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+.\lib\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\glew32s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\SDL2test.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\qu3e.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\lambe\source\repos\WizardGame\Debug\WizardGame.exe : fatal error LNK1120: 140 unresolved externals

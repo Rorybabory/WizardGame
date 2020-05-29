@@ -1,0 +1,2 @@
+cd CPP/OPENGL
+g++ main.cpp display.cpp mesh.cpp obj_loader.cpp object.cpp player.cpp shader.cpp stb_image.c texture.cpp transform.cpp world.cpp -lGL -lGLU -lGLEW -lSDL2 -std=c++11 -lpthread
